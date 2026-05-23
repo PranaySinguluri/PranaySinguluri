@@ -1,4 +1,3 @@
-````md id="rm1j73"
 <!-- =========================================================
      PRANAY SINGULURI · GITHUB PROFILE README
 ========================================================= -->
@@ -6,7 +5,7 @@
 <!-- HERO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0d1117,70:071c2f,100:00e5ff&height=280&section=header&text=Pranay%20Singuluri&fontColor=ffffff&fontSize=58&fontAlignY=42&fontStyle=bold&desc=JAVA%20FULL%20STACK%20ENGINEER%20%C2%B7%20SPRING%20BOOT%20%C2%B7%20REACT%20%C2%B7%20AWS&descAlignY=62&descColor=7ccfff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0d1117,70:071c2f,100:00e5ff&height=280&section=header&text=Pranay%20Singuluri&fontColor=ffffff&fontSize=58&fontAlignY=42&fontStyle=bold&desc=JAVA%20FULL%20STACK%20ENGINEER%20·%20SPRING%20BOOT%20·%20REACT%20·%20AWS&descAlignY=62&descColor=7ccfff&animation=fadeIn"
     width="100%"
     alt="hero"
   />
@@ -43,17 +42,15 @@
 
 <br/><br/><br/>
 
-<!-- SECTION -->
+---
+
+<br/><br/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+IDENTITY" />
 </p>
 
 <br/>
-
-<table width="100%">
-<tr>
-
-<td width="55%" valign="top">
 
 # Precision-built software.
 
@@ -71,13 +68,11 @@ Focused on scalable engineering across:
 - Healthcare
 - Telecom
 
-</td>
+<br/>
 
-<td width="45%" valign="top">
-
-```yaml
-name:        "Pranay Singuluri"
-role:        "Java Full Stack Engineer"
+yaml
+name: "Pranay Singuluri"
+role: "Java Full Stack Engineer"
 
 stack:
   - Spring Boot
@@ -94,16 +89,8 @@ philosophy:
   - "Ship clean systems."
   - "Measure everything."
   - "Iterate fast."
-````
-
-</td>
-
-</tr>
-</table>
 
 <br/><br/><br/><br/>
-
-<!-- TRANSITION -->
 
 <p align="center">
 
@@ -115,7 +102,9 @@ philosophy:
 
 <br/><br/><br/>
 
-<!-- STACK -->
+---
+
+<br/><br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+THE+STACK" />
@@ -164,18 +153,33 @@ philosophy:
 
 <br/><br/><br/><br/>
 
-<!-- PROJECTS -->
+---
+
+<br/><br/>
+
+<p align="center">
+
+# EVENT-DRIVEN
+
+### ENGINEERING
+
+</p>
+
+<p align="center">
+Kafka consumers · DLQs · observability · resilient pipelines
+</p>
+
+<br/><br/><br/><br/>
+
+---
+
+<br/><br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+FEATURED+WORK" />
 </p>
 
 <br/>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top" align="center">
 
 # 🚘 AutoCare
 
@@ -190,13 +194,13 @@ Java backend system for:
 
 <br/>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+</p>
 
-</td>
-
-<td width="50%" valign="top" align="center">
+<br/><br/><br/>
 
 # 🏏 CricLyser
 
@@ -211,17 +215,16 @@ Java-based analytics platform:
 
 <br/>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square"/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <br/><br/><br/><br/>
 
-<!-- CURRENT FOCUS -->
+---
+
+<br/><br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+CURRENT+FOCUS" />
@@ -229,7 +232,7 @@ Java-based analytics platform:
 
 <br/>
 
-```diff
+diff
 + Reactive Spring WebFlux services
 + AWS-native deployments
 + Kafka orchestration pipelines
@@ -237,11 +240,12 @@ Java-based analytics platform:
 + Claude API + RAG integrations
 
 ! Open to Senior Backend / Full Stack opportunities
-```
 
 <br/><br/><br/><br/>
 
-<!-- GITHUB STATS -->
+---
+
+<br/><br/>
 
 <p align="center">
 
@@ -278,7 +282,9 @@ Java-based analytics platform:
 
 <br/><br/><br/><br/>
 
-<!-- SNAKE -->
+---
+
+<br/><br/>
 
 <p align="center">
 
@@ -292,20 +298,19 @@ Java-based analytics platform:
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/PranaySinguluri/PranaySinguluri/output/github-contribution-grid-snake-dark.svg"/>
-
-```
 <img
   alt="snake"
   src="https://raw.githubusercontent.com/PranaySinguluri/PranaySinguluri/output/github-contribution-grid-snake-dark.svg"
 />
-```
 
   </picture>
 </p>
 
 <br/><br/><br/><br/>
 
-<!-- FOOTER -->
+---
+
+<br/><br/>
 
 <p align="center">
 
@@ -323,4 +328,3 @@ Java-based analytics platform:
     width="100%"
   />
 </p>
-```
