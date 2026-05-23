@@ -1,78 +1,55 @@
-````md
+````md id="rm1j73"
 <!-- =========================================================
-     PRANAY SINGULURI · CINEMATIC GITHUB PROFILE README
-     Product-unboxing inspired editorial README
+     PRANAY SINGULURI · GITHUB PROFILE README
 ========================================================= -->
 
 <!-- HERO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0d1117,70:071c2f,100:00e5ff&height=320&section=header&text=Pranay%20Singuluri&fontColor=ffffff&fontSize=60&fontAlignY=42&fontStyle=bold&desc=JAVA%20FULL%20STACK%20ENGINEER%20%C2%B7%20SPRING%20BOOT%20%C2%B7%20REACT%20%C2%B7%20AWS&descAlignY=63&descColor=7ccfff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0d1117,70:071c2f,100:00e5ff&height=280&section=header&text=Pranay%20Singuluri&fontColor=ffffff&fontSize=58&fontAlignY=42&fontStyle=bold&desc=JAVA%20FULL%20STACK%20ENGINEER%20%C2%B7%20SPRING%20BOOT%20%C2%B7%20REACT%20%C2%B7%20AWS&descAlignY=62&descColor=7ccfff&animation=fadeIn"
     width="100%"
     alt="hero"
   />
 </p>
 
-<br/><br/><br/>
-
-<!-- OPENING STATEMENT -->
-<p align="center">
-
-# ENGINEERING SYSTEMS  
-### BUILT FOR SCALE
-
-</p>
-
-<p align="center">
-Reactive backend systems · cloud-native architecture · production-grade APIs
-</p>
-
-<br/><br/><br/><br/><br/>
+<br/>
 
 <!-- TYPING -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3200&pause=1000&color=4A9ECA&center=true&vCenter=true&width=850&lines=Building+reactive+microservices+with+Spring+WebFlux+%2B+Kafka;Designing+cloud-native+systems+on+AWS;Creating+clean+TypeScript+%2B+React+interfaces;Turning+complex+business+flows+into+maintainable+platforms"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3200&pause=900&color=4A9ECA&center=true&vCenter=true&width=850&lines=Building+reactive+microservices+with+Spring+WebFlux+%2B+Kafka;Designing+cloud-native+systems+on+AWS;Creating+scalable+React+%2B+TypeScript+interfaces;Turning+complex+workflows+into+clean+production+systems"
     alt="typing"
   />
 </p>
 
-<br/><br/>
+<br/>
 
 <!-- CONTACT -->
 <p align="center">
   <a href="https://github.com/PranaySinguluri">
-    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://linkedin.com/in/pranay-singuluri">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:pranay.singuluri@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=PranaySinguluri&style=for-the-badge&color=00e5ff"/>
 </p>
 
-<br/><br/><br/><br/><br/>
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%"/>
-</p>
-
 <br/><br/><br/>
 
-<!-- CHAPTER -->
+<!-- SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=400&lines=%2F%2F+IDENTITY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+IDENTITY" />
 </p>
 
 <br/>
 
-<!-- WHOAMI -->
 <table width="100%">
 <tr>
 
@@ -82,17 +59,17 @@ Reactive backend systems · cloud-native architecture · production-grade APIs
 
 ### Production-grade systems.
 
-Software Developer at **Green Bay Packaging**, building event-driven platforms and reactive backend systems across:
+Software Developer at **Green Bay Packaging**, building:
 
+- Reactive backend services
+- Event-driven systems
+- Cloud-native applications
+- Enterprise-scale APIs
+
+Focused on scalable engineering across:
 - Supply Chain
 - Healthcare
 - Telecom
-
-Focused on:
-- Spring Boot microservices
-- Kafka pipelines
-- AWS infrastructure
-- scalable frontend systems
 
 </td>
 
@@ -101,9 +78,8 @@ Focused on:
 ```yaml
 name:        "Pranay Singuluri"
 role:        "Java Full Stack Engineer"
-location:    "United States"
 
-specialties:
+stack:
   - Spring Boot
   - Kafka
   - AWS
@@ -125,29 +101,29 @@ philosophy:
 </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
-<!-- STATEMENT -->
+<!-- TRANSITION -->
 
 <p align="center">
 
-# SYSTEMS SHOULD SCALE
+# SYSTEMS BUILT
 
-### WITHOUT LOSING CLARITY
+### FOR SCALE
 
 </p>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <!-- STACK -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=400&lines=%2F%2F+THE+STACK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+THE+STACK" />
 </p>
 
-<br/><br/>
+<br/>
 
-# Backend Architecture
+# Backend
 
 <p align="center">
 
@@ -159,9 +135,9 @@ philosophy:
 
 </p>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-# Frontend Systems
+# Frontend
 
 <p align="center">
 
@@ -172,9 +148,9 @@ philosophy:
 
 </p>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-# Cloud Infrastructure
+# Cloud & Infrastructure
 
 <p align="center">
 
@@ -186,31 +162,15 @@ philosophy:
 
 </p>
 
-<br/><br/><br/><br/><br/><br/>
-
-<!-- TRANSITION -->
-
-<p align="center">
-
-# EVENT-DRIVEN
-
-### ENGINEERING
-
-</p>
-
-<p align="center">
-Kafka consumers · DLQs · observability · resilient pipelines
-</p>
-
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <!-- PROJECTS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=400&lines=%2F%2F+SELECTED+WORK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+FEATURED+WORK" />
 </p>
 
-<br/><br/>
+<br/>
 
 <table width="100%">
 <tr>
@@ -259,12 +219,12 @@ Java-based analytics platform:
 </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <!-- CURRENT FOCUS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=400&lines=%2F%2F+CURRENT+FOCUS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4A9ECA&center=true&width=300&lines=%2F%2F+CURRENT+FOCUS" />
 </p>
 
 <br/>
@@ -274,14 +234,14 @@ Java-based analytics platform:
 + AWS-native deployments
 + Kafka orchestration pipelines
 + Distributed backend architecture
-+ RAG pipelines + Claude API integrations
++ Claude API + RAG integrations
 
 ! Open to Senior Backend / Full Stack opportunities
 ```
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
-<!-- STATS -->
+<!-- GITHUB STATS -->
 
 <p align="center">
 
@@ -293,7 +253,7 @@ Java-based analytics platform:
 
 </p>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <img
@@ -308,7 +268,7 @@ Java-based analytics platform:
 
 </p>
 
-<br/><br/><br/>
+<br/><br/>
 
 <p align="center">
   <img
@@ -316,7 +276,7 @@ Java-based analytics platform:
   />
 </p>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <!-- SNAKE -->
 
@@ -343,7 +303,7 @@ Java-based analytics platform:
   </picture>
 </p>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <!-- FOOTER -->
 
