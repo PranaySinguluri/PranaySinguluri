@@ -103,11 +103,11 @@ Production-oriented backend platform for vehicle service management and appointm
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
   </a>
   
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com](https://www.linkedin.com/in/pranay-singuluri/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
   </a>
   
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:singuluripranay@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
   </a>
 </p>
@@ -121,4 +121,3 @@ Focused on building scalable backend systems with production-first engineering d
 </sub>
 
 </div>
-```
