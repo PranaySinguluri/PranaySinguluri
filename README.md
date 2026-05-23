@@ -111,7 +111,7 @@ mantra:     "Ship clean systems. Measure everything. Iterate fast."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=90&text=The+Stack&fontColor=ffffff&fontSize=46&fontAlignY=65&fontStyle=bold&desc=Backend+%C2%B7+Frontend+%C2%B7+Cloud+%C2%B7+DevOps+%C2%B7+AI&descAlignY=88&descColor=555555&animation=fadeIn" width="100%" alt="stack title"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=90&text=The+Stack&fontColor=ffffff&fontSize=46&fontAlignY=65&fontStyle=bold&<br>&desc=Backend+%C2%B7+Frontend+%C2%B7+Cloud+%C2%B7+DevOps+%C2%B7+AI&descAlignY=88&descColor=555555&animation=fadeIn" width="100%" alt="stack title"/>
 </p>
 
 <br/>
