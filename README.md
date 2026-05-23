@@ -44,7 +44,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4a9eca&width=300&lines=%2F%2F+ENGINEER+%C2%B7+ARCHITECT+%C2%B7+BUILDER" alt="eyebrow"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=11&duration=1&pause=999999&color=4a9eca&width=300" alt="eyebrow"/>
 
 <br/>
 
@@ -65,7 +65,7 @@ M.S. Information Science · Missouri University of Science & Technology
 |---|---|
 | **6 yrs** | Production Experience |
 | **3** | Industry Domains |
-| **10+** | Cloud & Data Services |
+| **6** | Cloud & Data Services |
 | **5** | Production Languages |
 
 <br/>
