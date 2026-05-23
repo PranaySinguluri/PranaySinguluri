@@ -14,12 +14,12 @@
 
 <!-- ▓▓ SOCIAL BADGES ▓▓ -->
 <p align="center">
-  <a href="https://linkedin.com/in/[INSERT YOUR LINKEDIN HANDLE]" target="_blank">
+  <a href="https://www.linkedin.com/in/pranay-singuluri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:[INSERT YOUR EMAIL]">
-    <img src="https://img.shields.io/badge/Email-00e5ff?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/>
+  <a href="mailto:singuluripranay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00e5ff?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/PranaySinguluri" target="_blank">
@@ -35,10 +35,10 @@
 ❓ cat whoami.yaml
 ---
 name: "Naga Venkata Pranay Singuluri"
-alias: "Pranay"
+alias: "Pranay Singuluri"
 location: "Los Angeles, CA"
 role: "Software Developer @ Green Bay Packaging"
-experience: "~6 years in Java Full Stack development"
+experience: "~5 years in Java Full Stack development"
 education:
   degree: "M.S. Information Science"
   university: "Missouri University of Science and Technology"
@@ -65,7 +65,7 @@ fun_fact: "I debug best at 2 AM with lo-fi beats and cold brew"
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-00e5ff?style=flat-square&logo=fastapi&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/REST_APIs-00e5ff?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Mockito-78C257?style=flat-square&logoColor=white" />
 </p>
