@@ -1,29 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0EA5E9,100:22D3EE&text=Pranay%20Singuluri&fontSize=42&fontColor=E6EDF3&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud%20Infrastructure&descAlignY=58&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-# Pranay Singuluri
-
-### Backend Engineer • Distributed Systems • Scalable Infrastructure
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:0EA5E9,100:22D3EE&text=Pranay%20Singuluri&fontSize=44&fontColor=E6EDF3&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Scalable%20Infrastructure&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+production-grade+backend+systems;Designing+scalable+event-driven+architectures;Focused+on+APIs%2C+cloud+infrastructure+%26+system+design" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  Backend engineering focused on scalable APIs, distributed systems,          ║
-║  event-driven architecture, and production-grade cloud infrastructure.       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -31,16 +10,15 @@
 
 ## Engineering Focus
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ Distributed Systems Architecture                                            │
-│ Event-Driven Backend Services                                               │
-│ Scalable REST APIs                                                          │
-│ AWS Cloud Infrastructure                                                    │
-│ Production Reliability & Observability                                      │
-│ System Design & Backend Optimization                                        │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+Backend engineer focused on designing reliable, scalable systems with strong emphasis on:
+
+- Distributed systems architecture
+- Event-driven backend services
+- High-performance REST APIs
+- AWS cloud infrastructure
+- Production reliability & observability
+- Scalable data flow design
+- System design & backend optimization
 
 Currently building systems around:
 
@@ -66,20 +44,29 @@ Currently building systems around:
 
 ## Flagship Project
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ AutoCare — Scalable Vehicle Service Platform                                │
-├──────────────────────────────────────────────────────────────────────────────┤
-│ • Location-aware service discovery                                          │
-│ • Appointment scheduling workflows                                          │
-│ • Secure authentication & authorization                                     │
-│ • Event-driven service coordination                                         │
-│ • Scalable backend architecture                                             │
-│ • Cloud-native deployment planning                                          │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+### AutoCare — Scalable Vehicle Service Platform
 
-Stack:
+Production-oriented backend platform for vehicle service management and appointment orchestration.
+
+#### Core Engineering Areas
+
+- Location-aware service discovery
+- Appointment scheduling workflows
+- RESTful API architecture
+- Service-center coordination flows
+- Secure authentication & authorization
+- Database-driven operational workflows
+- Scalable backend service structure
+
+#### Architecture Direction
+
+- Microservice-ready backend design
+- Event-driven workflow integration
+- Async processing patterns
+- Cloud-native deployment strategy
+- Infrastructure scalability planning
+
+#### Stack
 
 `Java` • `Spring Boot` • `PostgreSQL` • `JWT` • `Docker` • `AWS`
 
@@ -127,6 +114,8 @@ Stack:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:0EA5E9,100:22D3EE" />
+<sub>
+Focused on building scalable backend systems with production-first engineering discipline.
+</sub>
 
 </div>
