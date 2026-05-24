@@ -1,121 +1,84 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:0EA5E9,100:22D3EE&text=Pranay%20Singuluri&fontSize=44&fontColor=E6EDF3&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Scalable%20Infrastructure&descAlignY=58&animation=fadeIn" />
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=Pranay%20Singuluri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" alt="Pranay Singuluri Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+production-grade+backend+systems;Designing+scalable+event-driven+architectures;Focused+on+APIs%2C+cloud+infrastructure+%26+system+design" alt="Typing SVG" />
+<!-- TYPING SUBTITLE -->
+<a href="https://github.com/pranaysinguluri">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&pause=2500&color=0ea5e9&center=true&vCenter=true&width=600&lines=Building+high-performance+React+%2B+TypeScript+UIs;Architecting+scalable+distributed+Java+backends;Engineering+high-throughput+event-driven+APIs;Designing+resilient+cloud-native+infrastructure" alt="Engineering Focus" />
+</a>
 
-</div>
+<!-- PREMIUM CONTACT BADGES -->
+<a href="mailto:singuluripranay@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=0ea5e9" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/pranay-singuluri/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
+<a href="https://github.com/pranaysinguluri"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=0ea5e9" alt="GitHub" /></a>
 
----
-
-## Engineering Focus
-
-Backend engineer focused on designing reliable, scalable systems with strong emphasis on:
-
-- Distributed systems architecture
-- Event-driven backend services
-- High-performance REST APIs
-- AWS cloud infrastructure
-- Production reliability & observability
-- Scalable data flow design
-- System design & backend optimization
-
-Currently building systems around:
-
-`Spring Boot` • `Java` • `PostgreSQL` • `Kafka` • `Redis` • `AWS`
-
----
-
-## Tech Stack
-
-### Backend & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postgres,mysql,redis,kafka,docker,kubernetes,aws,linux" />
-</p>
-
-### Engineering & Tooling
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,postman,idea,vscode,bash" />
-</p>
-
----
-
-## Flagship Project
-
-### AutoCare — Scalable Vehicle Service Platform
-
-Production-oriented backend platform for vehicle service management and appointment orchestration.
-
-#### Core Engineering Areas
-
-- Location-aware service discovery
-- Appointment scheduling workflows
-- RESTful API architecture
-- Service-center coordination flows
-- Secure authentication & authorization
-- Database-driven operational workflows
-- Scalable backend service structure
-
-#### Architecture Direction
-
-- Microservice-ready backend design
-- Event-driven workflow integration
-- Async processing patterns
-- Cloud-native deployment strategy
-- Infrastructure scalability planning
-
-#### Stack
-
-`Java` • `Spring Boot` • `PostgreSQL` • `JWT` • `Docker` • `AWS`
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PranaySinguluri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PranaySinguluri&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
+<!-- SUBTLE VIEW COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=pranaysinguluri&color=0ea5e9&style=flat-square&label=SYSTEM+VIEWS" alt="Profile Views" />
 
 </div>
 
----
+### ❯ Identity & Focus
 
-## Contribution Flow
+**Full Stack Engineer** specializing in the end-to-end delivery of fault-tolerant, distributed enterprise systems. Proficient in engineering resilient Java backends and marrying them with high-performance, component-driven React applications. Currently driving full-stack solutions for supply chain operations at **Green Bay Packaging**. 
 
-<div align="center">
+M.S. in Information Science · **Missouri S&T**
+*Domain Expertise: Supply Chain · Healthcare · Telecom*
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+### ❯ Engineering Philosophy
 
-</div>
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h4>⚛️ Type-Safe & Performance-Driven Frontend</h4>
+      <p>Architecting scalable user interfaces utilizing <b>React</b> and <b>TypeScript</b>. Focused on state optimization, reusable component lifecycles, and modern semantic layouts using strict <b>JavaScript (ES6+)</b>, <b>HTML5</b>, and <b>CSS3</b> design systems.</p>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h4>⚡ Reactive & Cloud-Native Backend</h4>
+      <p>Building high-throughput, non-blocking APIs with <b>Spring WebFlux</b> and decoupled microservices via <b>Kafka</b>. Multi-node container orchestration orchestrated smoothly via <b>AWS</b>, <b>Docker</b>, and <b>Kubernetes</b>.</p>
+    </td>
+  </tr>
+</table>
 
----
+### ❯ Technology Stack
 
-## Connect
+**Frontend Architecture**
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=0ea5e9" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0ea5e9" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=0ea5e9" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=0ea5e9" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=0ea5e9" alt="CSS3" />
 
-<p align="left">
-  <a href="https://github.com/PranaySinguluri">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-  </a>
+**Backend & Data Layer**
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=0ea5e9" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=0ea5e9" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring_WebFlux-000000?style=for-the-badge&logo=spring&logoColor=0ea5e9" alt="Spring WebFlux" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=0ea5e9" alt="PostgreSQL" />
 
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
-  </a>
+**Cloud, Messaging & Infrastructure**
+<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=0ea5e9" alt="Kafka" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=0ea5e9" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=0ea5e9" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=0ea5e9" alt="Kubernetes" />
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
-  </a>
-</p>
+### ❯ Featured Production Architecture
 
----
+> ### 🚘 AutoCare Platform
+> **Enterprise-grade full-stack automotive service platform engineered for high availability.**
+>
+> * **Frontend Client:** Engineered an intuitive, single-page dashboard using **React** and **TypeScript**. Implemented granular client-side state management, responsive grid layouts utilizing advanced CSS3/HTML5 semantic structuring, and high-efficiency API polling to visualize real-time asset telemetry.
+> * **Backend & Event Streaming:** Designed a distributed Java backend utilizing microservices to handle concurrent service requests and inventory updates. Integrated **Apache Kafka** to handle asynchronous message processing, dropping system API latency under heavy scale.
 
-<div align="center">
-
-<sub>
-Focused on building scalable backend systems with production-first engineering discipline.
-</sub>
-
-</div>
+#### Core Event-Driven Flow
+```mermaid
+graph TD
+    Client([React + TypeScript UI]) --> Gateway[API Gateway / Load Balancer]
+    
+    Gateway --> ServiceA[Inventory Microservice]
+    Gateway --> ServiceB[Booking Microservice]
+    
+    ServiceA --> DB1[(PostgreSQL Cluster)]
+    ServiceB --> DB2[(PostgreSQL Cluster)]
+    
+    ServiceA -- Publishes Events --> Kafka{{Apache Kafka Event Bus}}
+    ServiceB -- Subscribes to Events --> Kafka
