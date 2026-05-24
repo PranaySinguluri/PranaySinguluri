@@ -68,17 +68,13 @@ M.S. in Information Science · **Missouri S&T**
 >
 > * **Frontend Client:** Engineered an intuitive, single-page dashboard using **React** and **TypeScript**. Implemented granular client-side state management, responsive grid layouts utilizing advanced CSS3/HTML5 semantic structuring, and high-efficiency API polling to visualize real-time asset telemetry.
 > * **Backend & Event Streaming:** Designed a distributed Java backend utilizing microservices to handle concurrent service requests and inventory updates. Integrated **Apache Kafka** to handle asynchronous message processing, dropping system API latency under heavy scale.
+>
+## Contribution Flow
 
-#### Core Event-Driven Flow
-```mermaid
-graph TD
-    Client([React + TypeScript UI]) --> Gateway[API Gateway / Load Balancer]
-    
-    Gateway --> ServiceA[Inventory Microservice]
-    Gateway --> ServiceB[Booking Microservice]
-    
-    ServiceA --> DB1[(PostgreSQL Cluster)]
-    ServiceB --> DB2[(PostgreSQL Cluster)]
-    
-    ServiceA -- Publishes Events --> Kafka{{Apache Kafka Event Bus}}
-    ServiceB -- Subscribes to Events --> Kafka
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+
